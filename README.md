@@ -31,6 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma tela de celular com quatro redes sociais e um botão home onde ao clicar aparece na tela de navegação com link para acessar.
+Uma calculadora funcional em HTM, CSS e JS.
 
 <!--## 🔖 Layout-->
