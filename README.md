@@ -26,11 +26,11 @@ Projeto Calculadora
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
--JavaScript
+- JavaScript
 - Git e Github
 
 ## 💻 Projeto
 
-Uma calculadora funcional em HTM, CSS e JS.
+Uma calculadora funcional em HTML, CSS e JS.
 
 <!--## 🔖 Layout-->
